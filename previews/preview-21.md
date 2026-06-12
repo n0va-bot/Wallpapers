@@ -1,4 +1,5 @@
 # Preview Page 21
+[Previous](preview-20.md) [Current (page 21)](preview-21.md) [Next](preview-22.md)
 
 ![sunset.jpg](../sunset.jpg)
 ![sunset-waves.webp](../sunset-waves.webp)

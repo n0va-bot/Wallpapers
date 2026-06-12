@@ -1,4 +1,5 @@
 # Preview Page 2
+[Previous](preview-1.md) [Current (page 2)](preview-2.md) [Next](preview-3.md)
 
 ![anime-girl-at-the-hood.webp](../anime-girl-at-the-hood.webp)
 ![artificial-valley.jpg](../artificial-valley.jpg)

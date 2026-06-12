@@ -1,4 +1,5 @@
 # Preview Page 13
+[Previous](preview-12.md) [Current (page 13)](preview-13.md) [Next](preview-14.md)
 
 ![lighthouse-clouds.webp](../lighthouse-clouds.webp)
 ![lighthouse-midday.webp](../lighthouse-midday.webp)

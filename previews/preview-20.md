@@ -1,4 +1,5 @@
 # Preview Page 20
+[Previous](preview-19.md) [Current (page 20)](preview-20.md) [Next](preview-21.md)
 
 ![slugcats-pipe.webp](../slugcats-pipe.webp)
 ![slugcat-text.webp](../slugcat-text.webp)

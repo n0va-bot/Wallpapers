@@ -1,4 +1,5 @@
 # Preview Page 19
+[Previous](preview-18.md) [Current (page 19)](preview-19.md) [Next](preview-20.md)
 
 ![scifi-skyline.webp](../scifi-skyline.webp)
 ![scifi-townsquare.jpg](../scifi-townsquare.jpg)

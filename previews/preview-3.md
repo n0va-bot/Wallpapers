@@ -1,4 +1,5 @@
 # Preview Page 3
+[Previous](preview-2.md) [Current (page 3)](preview-3.md) [Next](preview-4.md)
 
 ![bluehour.jpg](../bluehour.jpg)
 ![blue-landscape.webp](../blue-landscape.webp)

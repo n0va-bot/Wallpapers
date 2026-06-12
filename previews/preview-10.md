@@ -1,4 +1,5 @@
 # Preview Page 10
+[Previous](preview-9.md) [Current (page 10)](preview-10.md) [Next](preview-11.md)
 
 ![flowers-7.webp](../flowers-7.webp)
 ![flying-comets-clouds.webp](../flying-comets-clouds.webp)

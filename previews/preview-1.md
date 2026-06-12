@@ -1,4 +1,5 @@
 # Preview Page 1
+[Current (page 1)](preview-1.md) [Next](preview-2.md)
 
 ![aamond-embankment.webp](../aamond-embankment.webp)
 ![abandoned-overgrown-trainstation.webp](../abandoned-overgrown-trainstation.webp)

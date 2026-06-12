@@ -1,4 +1,5 @@
 # Preview Page 12
+[Previous](preview-11.md) [Current (page 12)](preview-12.md) [Next](preview-13.md)
 
 ![hollow-knight.webp](../hollow-knight.webp)
 ![horizon-2.jpg](../horizon-2.jpg)

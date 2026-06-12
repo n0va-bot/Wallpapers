@@ -1,4 +1,5 @@
 # Preview Page 14
+[Previous](preview-13.md) [Current (page 14)](preview-14.md) [Next](preview-15.md)
 
 ![miku-defying-gravity.webp](../miku-defying-gravity.webp)
 ![miku-schoolgirl.webp](../miku-schoolgirl.webp)

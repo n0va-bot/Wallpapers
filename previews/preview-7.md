@@ -1,4 +1,5 @@
 # Preview Page 7
+[Previous](preview-6.md) [Current (page 7)](preview-7.md) [Next](preview-8.md)
 
 ![desert-rib-tunnel.webp](../desert-rib-tunnel.webp)
 ![desolate-city-2.jpg](../desolate-city-2.jpg)

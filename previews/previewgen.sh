@@ -16,6 +16,13 @@ for img in "${images[@]}"; do
     if [ $count -eq 0 ]; then
         current_file="preview-$page.md"
         echo "# Preview Page $page" > "$current_file"
+        if [ $page -eq 1 ]; then
+            echo "[Current (page $page)](preview-$page.md) [Next](preview-$((page + 1)).md)" >> "$current_file"
+        elif [ $page -eq $(( ${#images[@]} / 10 + 1 )) ]; then
+            echo "[Previous](preview-$((page - 1)).md) [Current (page $page)](preview-$page.md)" >> "$current_file"
+        else
+            echo "[Previous](preview-$((page - 1)).md) [Current (page $page)](preview-$page.md) [Next](preview-$((page + 1)).md)" >> "$current_file"
+        fi
         echo "" >> "$current_file"
     fi
     echo "![$img](../$img)" >> "$current_file"

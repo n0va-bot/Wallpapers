@@ -1,4 +1,5 @@
 # Preview Page 23
+[Previous](preview-22.md) [Current (page 23)](preview-23.md) [Next](preview-24.md)
 
 ![tower.webp](../tower.webp)
 ![train.jpg](../train.jpg)

@@ -1,4 +1,5 @@
 # Preview Page 16
+[Previous](preview-15.md) [Current (page 16)](preview-16.md) [Next](preview-17.md)
 
 ![pixel-car.png](../pixel-car.png)
 ![pixel-desolate-planet.png](../pixel-desolate-planet.png)

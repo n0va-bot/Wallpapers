@@ -1,4 +1,5 @@
 # Preview Page 8
+[Previous](preview-7.md) [Current (page 8)](preview-8.md) [Next](preview-9.md)
 
 ![dominik-mayer-7.webp](../dominik-mayer-7.webp)
 ![dominik-mayer-9.jpg](../dominik-mayer-9.jpg)

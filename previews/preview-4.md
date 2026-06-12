@@ -1,4 +1,5 @@
 # Preview Page 4
+[Previous](preview-3.md) [Current (page 4)](preview-4.md) [Next](preview-5.md)
 
 ![cabin-4.png.webp](../cabin-4.png.webp)
 ![calder-moore-aliencrack-solarised.jpg](../calder-moore-aliencrack-solarised.jpg)

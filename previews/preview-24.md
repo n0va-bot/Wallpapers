@@ -1,4 +1,5 @@
 # Preview Page 24
+[Previous](preview-23.md) [Current (page 24)](preview-24.md) [Next](preview-25.md)
 
 ![voyager-9.webp](../voyager-9.webp)
 ![wallhaven-5gx3r3.jpg](../wallhaven-5gx3r3.jpg)

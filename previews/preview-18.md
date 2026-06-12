@@ -1,4 +1,5 @@
 # Preview Page 18
+[Previous](preview-17.md) [Current (page 18)](preview-18.md) [Next](preview-19.md)
 
 ![red-ribbons.webp](../red-ribbons.webp)
 ![red-space.webp](../red-space.webp)
