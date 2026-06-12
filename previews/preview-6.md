@@ -10,3 +10,4 @@
 ![dark-forest.webp](../dark-forest.webp)
 ![dark-rainy-street.webp](../dark-rainy-street.webp)
 ![degirled.webp](../degirled.webp)
+[Previous](preview-5.md) [Current (page 6)](preview-6.md) [Next](preview-7.md)

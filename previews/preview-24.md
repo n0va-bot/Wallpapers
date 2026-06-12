@@ -10,3 +10,4 @@
 ![yellow-street.webp](../yellow-street.webp)
 ![zkostek.jpg](../zkostek.jpg)
 ![znadrazi2.jpg](../znadrazi2.jpg)
+[Previous](preview-23.md) [Current (page 24)](preview-24.md) [Next](preview-25.md)

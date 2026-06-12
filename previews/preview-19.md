@@ -10,3 +10,4 @@
 ![skybase-pyramid.webp](../skybase-pyramid.webp)
 ![skyline-pink-sunset.webp](../skyline-pink-sunset.webp)
 ![slugcat-nest.webp](../slugcat-nest.webp)
+[Previous](preview-18.md) [Current (page 19)](preview-19.md) [Next](preview-20.md)

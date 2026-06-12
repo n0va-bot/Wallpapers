@@ -10,3 +10,4 @@
 ![pink-clouds.webp](../pink-clouds.webp)
 ![pink-flower-branch.jpg](../pink-flower-branch.jpg)
 ![piotr-dura-deuter-extractor.jpg](../piotr-dura-deuter-extractor.jpg)
+[Previous](preview-14.md) [Current (page 15)](preview-15.md) [Next](preview-16.md)

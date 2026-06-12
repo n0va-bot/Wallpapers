@@ -10,3 +10,4 @@
 ![chairlift-fog.jpg](../chairlift-fog.jpg)
 ![chairlift-forest.jpg](../chairlift-forest.jpg)
 ![cherry-blossom.jpg](../cherry-blossom.jpg)
+[Previous](preview-3.md) [Current (page 4)](preview-4.md) [Next](preview-5.md)

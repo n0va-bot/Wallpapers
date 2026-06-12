@@ -10,3 +10,4 @@
 ![sunken-tower.png.webp](../sunken-tower.png.webp)
 ![sunlit-ruins.png.webp](../sunlit-ruins.png.webp)
 ![sunset-bikepath.webp](../sunset-bikepath.webp)
+[Previous](preview-19.md) [Current (page 20)](preview-20.md) [Next](preview-21.md)

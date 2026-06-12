@@ -10,3 +10,4 @@
 ![dominik-mayer-18.webp](../dominik-mayer-18.webp)
 ![dominik-mayer-20.jpg](../dominik-mayer-20.jpg)
 ![dominik-mayer-5.jpg](../dominik-mayer-5.jpg)
+[Previous](preview-6.md) [Current (page 7)](preview-7.md) [Next](preview-8.md)

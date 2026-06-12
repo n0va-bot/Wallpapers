@@ -21,6 +21,13 @@ for img in "${images[@]}"; do
     echo "![$img](../$img)" >> "$current_file"
     count=$((count + 1))
     if [ $count -eq 10 ]; then
+        if [ $page -eq 1 ]; then
+            echo "[Current (page $page)](preview-$page.md) [Next](preview-$((page + 1)).md)" >> "$current_file"
+        elif [ $page -eq $(( ${#images[@]} / 10 + 1 )) ]; then
+            echo "[Previous](preview-$((page - 1)).md) [Current (page $page)](preview-$page.md)" >> "$current_file"
+        else
+            echo "[Previous](preview-$((page - 1)).md) [Current (page $page)](preview-$page.md) [Next](preview-$((page + 1)).md)" >> "$current_file"
+        fi
         page=$((page + 1))
         count=0
     fi

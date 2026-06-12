@@ -10,3 +10,4 @@
 ![tokyo-night-cityscape.jpg](../tokyo-night-cityscape.jpg)
 ![t_oo_r_oo-daydream-colour.webp](../t_oo_r_oo-daydream-colour.webp)
 ![t_oo_r_oo-kitchen.webp](../t_oo_r_oo-kitchen.webp)
+[Previous](preview-21.md) [Current (page 22)](preview-22.md) [Next](preview-23.md)

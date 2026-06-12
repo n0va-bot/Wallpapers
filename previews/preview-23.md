@@ -10,3 +10,4 @@
 ![untraceable-dream.png](../untraceable-dream.png)
 ![voyager-11.webp](../voyager-11.webp)
 ![voyager-4.webp](../voyager-4.webp)
+[Previous](preview-22.md) [Current (page 23)](preview-23.md) [Next](preview-24.md)

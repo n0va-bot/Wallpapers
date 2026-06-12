@@ -10,3 +10,4 @@
 ![nier-mono-engels-i-think.webp](../nier-mono-engels-i-think.webp)
 ![nier-mono.jpg](../nier-mono.jpg)
 ![night-canal.jpg](../night-canal.jpg)
+[Previous](preview-13.md) [Current (page 14)](preview-14.md) [Next](preview-15.md)

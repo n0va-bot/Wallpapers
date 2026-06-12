@@ -10,3 +10,4 @@
 ![aesthetic.jpg](../aesthetic.jpg)
 ![alena-aenami-someday.jpg](../alena-aenami-someday.jpg)
 ![angel.jpg](../angel.jpg)
+[Current (page 1)](preview-1.md) [Next](preview-2.md)

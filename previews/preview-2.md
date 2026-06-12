@@ -10,3 +10,4 @@
 ![black-hole-astronaut.webp](../black-hole-astronaut.webp)
 ![bliss-dark.webp](../bliss-dark.webp)
 ![blue-flower.jpg](../blue-flower.jpg)
+[Previous](preview-1.md) [Current (page 2)](preview-2.md) [Next](preview-3.md)

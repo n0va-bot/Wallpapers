@@ -10,3 +10,4 @@
 ![rectangle-spiral-stairs.jpg](../rectangle-spiral-stairs.jpg)
 ![red-astronaut-let-go.webp](../red-astronaut-let-go.webp)
 ![red-guile.webp](../red-guile.webp)
+[Previous](preview-16.md) [Current (page 17)](preview-17.md) [Next](preview-18.md)

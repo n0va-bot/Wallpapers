@@ -10,3 +10,4 @@
 ![buswreck.jpg](../buswreck.jpg)
 ![c4-spring-sakura-sky.jpg](../c4-spring-sakura-sky.jpg)
 ![cabin-3.png.webp](../cabin-3.png.webp)
+[Previous](preview-2.md) [Current (page 3)](preview-3.md) [Next](preview-4.md)

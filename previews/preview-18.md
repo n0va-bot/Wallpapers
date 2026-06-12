@@ -10,3 +10,4 @@
 ![salty-suburban.jpg](../salty-suburban.jpg)
 ![satellite-what-year-is-it.webp](../satellite-what-year-is-it.webp)
 ![savyolovskaya-metro-station.jpg](../savyolovskaya-metro-station.jpg)
+[Previous](preview-17.md) [Current (page 18)](preview-18.md) [Next](preview-19.md)

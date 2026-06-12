@@ -10,3 +10,4 @@
 ![svema_17_big.jpg](../svema_17_big.jpg)
 ![svema_18_big.webp](../svema_18_big.webp)
 ![svema_26_big.jpg](../svema_26_big.jpg)
+[Previous](preview-20.md) [Current (page 21)](preview-21.md) [Next](preview-22.md)

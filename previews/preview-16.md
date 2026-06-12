@@ -10,3 +10,4 @@
 ![powerline-beach.jpg](../powerline-beach.jpg)
 ![powerline-midday.webp](../powerline-midday.webp)
 ![powerline-sunset.webp](../powerline-sunset.webp)
+[Previous](preview-15.md) [Current (page 16)](preview-16.md) [Next](preview-17.md)

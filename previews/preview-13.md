@@ -10,3 +10,4 @@
 ![majo-no-tabitabi.webp](../majo-no-tabitabi.webp)
 ![marine-tunnel.webp](../marine-tunnel.webp)
 ![mejde.jpg](../mejde.jpg)
+[Previous](preview-12.md) [Current (page 13)](preview-13.md) [Next](preview-14.md)

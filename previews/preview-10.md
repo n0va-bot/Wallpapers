@@ -10,3 +10,4 @@
 ![forest-beach.webp](../forest-beach.webp)
 ![forest-factory.jpg](../forest-factory.jpg)
 ![forest-path.jpg](../forest-path.jpg)
+[Previous](preview-9.md) [Current (page 10)](preview-10.md) [Next](preview-11.md)

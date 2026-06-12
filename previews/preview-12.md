@@ -10,3 +10,4 @@
 ![kogecha-schoolgirl-solarised.webp](../kogecha-schoolgirl-solarised.webp)
 ![lesbian.webp](../lesbian.webp)
 ![lighthouse-2.webp](../lighthouse-2.webp)
+[Previous](preview-11.md) [Current (page 12)](preview-12.md) [Next](preview-13.md)
