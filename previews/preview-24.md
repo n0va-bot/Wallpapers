@@ -1,6 +1,7 @@
 # Preview Page 24
 [Previous](preview-23.md) [Current (page 24)](preview-24.md) [Next](preview-25.md)
 
+![voyager-9.webp](../voyager-9.webp)
 ![wallhaven-5gx3r3.jpg](../wallhaven-5gx3r3.jpg)
 ![water_droplets_on_a_puddle.webp](../water_droplets_on_a_puddle.webp)
 ![waterfall.jpg](../waterfall.jpg)
@@ -10,5 +11,4 @@
 ![yellow-street.webp](../yellow-street.webp)
 ![zkostek.jpg](../zkostek.jpg)
 ![znadrazi2.jpg](../znadrazi2.jpg)
-![znebe.jpg](../znebe.jpg)
 [Previous](preview-23.md) [Current (page 24)](preview-24.md) [Next](preview-25.md)
